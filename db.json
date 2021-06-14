@@ -54,6 +54,21 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "testing",
+      "author": "blaire",
+      "id": 12
+    },
+    {
+      "quote": "Bark",
+      "author": "Bingo and Winston",
+      "id": 13
+    },
+    {
+      "quote": "Eat lots of cake",
+      "author": "Blaire",
+      "id": 14
     }
   ],
   "likes": [
@@ -66,6 +81,16 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quote": "love each other",
+      "author": "blaire",
+      "id": 3
+    },
+    {
+      "quote": "love each other",
+      "author": "blaire",
+      "id": 4
     }
   ]
 }
